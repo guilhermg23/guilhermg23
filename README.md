@@ -20,11 +20,13 @@ Atualmente estudo e desenvolvo aplicações web utilizando tecnologias modernas,
 - Next.js
 - React
 - JavaScript
+- TypeScript
 - Tailwind CSS
 - HTML5
 - CSS3
 
 ### Back-end
+- TypeScript
 - Node.js
 - APIs REST
 - Supabase
@@ -37,7 +39,6 @@ Atualmente estudo e desenvolvo aplicações web utilizando tecnologias modernas,
 
 ## 📚 Atualmente estudando
 
-- TypeScript
 - n8n
 - Docker
 - Inteligência Artificial
